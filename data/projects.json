@@ -1,0 +1,152 @@
+{
+  "reel": {
+    "videoUrl": "",
+    "note": "Paste a YouTube or Vimeo embed URL here (e.g. https://www.youtube.com/embed/VIDEO_ID) once you have a reel cut together. Leave blank to hide the hero video."
+  },
+  "projects": [
+    {
+      "id": "hermano",
+      "title": "Hermano",
+      "category": "directorial",
+      "role": "Director / Writer / Producer / Co-Editor",
+      "year": "2025",
+      "credit": "",
+      "recognition": "UCA Film Festival \u2014 Official Selection",
+      "description": "Self-funded short film. Wrote, directed, produced, and co-edited from the ground up.",
+      "videoUrl": "https://drive.google.com/file/d/1__iExF4V68NE-HjwSWqj79NKwmrHJXqI/view?usp=drive_link",
+      "thumbnail": ""
+    },
+    {
+      "id": "modesty",
+      "title": "Modesty",
+      "category": "directorial",
+      "role": "Director",
+      "year": "",
+      "credit": "",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "https://drive.google.com/file/d/1Q3EDoudMHvFI-pyqpwOj2tYSkZ2ukSAr/view?usp=sharing",
+      "thumbnail": ""
+    },
+    {
+      "id": "survive",
+      "title": "Survive",
+      "category": "crew",
+      "role": "Director of Photography",
+      "year": "",
+      "credit": "dir. Atsunari",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "hollow-house",
+      "title": "Hollow House",
+      "category": "crew",
+      "role": "Gaffer",
+      "year": "2025",
+      "credit": "dir. Bri Lewis",
+      "recognition": "UCA Film Festival \u2014 Official Selection",
+      "description": "Lit on HMIs and ARRIs.",
+      "videoUrl": "https://drive.google.com/file/d/1dOa8hwoPfLNQJ9EzZ63wYtBjSm_IV7OO/view?usp=sharing",
+      "thumbnail": ""
+    },
+    {
+      "id": "rats",
+      "title": "RATS",
+      "category": "crew",
+      "role": "Key PA",
+      "year": "2026",
+      "credit": "dir. Ren Tsuka",
+      "recognition": "Feature film",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "la-vida-loca",
+      "title": "La Vida Loca",
+      "category": "crew",
+      "role": "First AC",
+      "year": "",
+      "credit": "dir. Yo Tokanaga",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "reflection",
+      "title": "Reflection",
+      "category": "crew",
+      "role": "Grip / Sound Mixer",
+      "year": "",
+      "credit": "dir. Maximus Fortin",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "https://drive.google.com/file/d/1QBeSbxSFYvjyFLfxcYaywz2i4sU8mE6N/view?usp=sharing",
+      "thumbnail": ""
+    },
+    {
+      "id": "backseat",
+      "title": "Backseat",
+      "category": "crew",
+      "role": "Sound Mixer",
+      "year": "",
+      "credit": "dir. Madi Gray",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "solus",
+      "title": "Solus",
+      "category": "crew",
+      "role": "Grip",
+      "year": "",
+      "credit": "dir. Andrew Ragland",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "neighbors",
+      "title": "Neighbors",
+      "category": "crew",
+      "role": "Key Grip",
+      "year": "",
+      "credit": "",
+      "recognition": "",
+      "description": "",
+      "videoUrl": "",
+      "thumbnail": ""
+    },
+    {
+      "id": "football-doc",
+      "title": "Rams All Access \u2014 Episode Six",
+      "category": "early",
+      "role": "Writer / Shooter / Editor",
+      "year": "",
+      "credit": "",
+      "recognition": "",
+      "description": "One episode from a 6-part mini-documentary series on the high school football team, senior year. Shot and edited solo.",
+      "videoUrl": "https://youtu.be/fpDbv1mRegs?si=ck_5M22AF_sSoU6l",
+      "thumbnail": ""
+    },
+    {
+      "id": "boys-state",
+      "title": "ARBS Highlight",
+      "category": "early",
+      "role": "Media Team",
+      "year": "",
+      "credit": "",
+      "recognition": "",
+      "description": "Short social media video from media leadership work at Arkansas Boys State.",
+      "videoUrl": "https://drive.google.com/file/d/1w0zBZSLbfckt3xFNwxg4LlG04uBz25c3/view?usp=sharing",
+      "thumbnail": ""
+    }
+  ]
+}
